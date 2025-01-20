@@ -1,10 +1,13 @@
 <!DOCTYPE html> <!-- para o navegador entender as configurações do html 5-->
 <html lang="en">
+
 <head> <!-- Esse é o cabeçalho e confiração da página-->
     <meta charset="UTF-8"> <!--  função para o navagador entender os acentos-->
     <title>Document</title> <!-- titulo do página  -->
-</head>
+</head>  <!-- fechamento do Head -->
+
 <body> <!-- É o corpo da página onde todo o conteúdo da página irá está-->
     teste do desafio
-</body>
+</body>   <!-- Fechamento do body-->
+
 </html>
